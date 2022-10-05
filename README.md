@@ -1,4 +1,4 @@
-# Marketplace Application
+# Marketplace Application (REST)
 
 ### Basic system requirements:
 - System from the start has products that can be sold. Each product contains:
